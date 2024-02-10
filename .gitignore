@@ -1,0 +1,27 @@
+
+# サービスアカウントの秘密鍵
+*.json
+
+# トークンファイル
+*.yaml
+
+# ビルド生成物
+/build/
+/dist/
+
+# ログファイル
+*.log
+
+# 依存関係ディレクトリ
+/node_modules/
+/vendor/
+
+# エディタの設定
+.vscode/
+.idea/
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db
+
+.env
