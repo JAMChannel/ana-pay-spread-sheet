@@ -153,7 +153,7 @@ def parse_message_for_anapay_info(msg)
 
   ana_pay
 rescue ArgumentError => e
-  puts "Base64デコード中にエラーが発生しました: #{e.message}"
+  puts "ArgumentError: #{e.message}"
 end
 
 # Initialize the API
