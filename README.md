@@ -10,4 +10,4 @@
 ruby quickstart.rb 
 ```
 
-300件くらいしかなかったからて入力した方が早かったかも・・・w
+It would have been quicker to type in the number of entries since there were only about 300 or so....
